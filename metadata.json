@@ -1,0 +1,7 @@
+{
+  "name": "SacraDesign - Pocket Oratory Creator",
+  "description": "A high-end design tool for creating personalized pocket oratories. Customize cross-shaped foldable devotional items with AI-generated art and sacred imagery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
